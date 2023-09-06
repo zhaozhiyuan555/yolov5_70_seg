@@ -15,5 +15,5 @@ python predict.py --weights runs/train-seg/shape_yolov5n/weights/best.pt --sourc
 
 # 预训练模型
 https://github.com/ultralytics/yolov5/releases/tag/v7.0
-去作者官网下载
+去作者官网下载，下载后在主目录上新建一个weights的文件，全部放入即可。
 
